@@ -1,0 +1,19 @@
+{
+  "name": "typescript and node.js 45-assignment",
+  "version": "1.0.0",
+  "description": "in this typescript files we solved all 45 assignment of govornor sindh IT initiative",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Moiz Qureshi",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
